@@ -1,0 +1,10 @@
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\bin\Debug\DocuSignCodingChallenge.exe.config
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\bin\Debug\DocuSignCodingChallenge.exe
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\bin\Debug\DocuSignCodingChallenge.pdb
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.csprojResolveAssemblyReference.cache
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.Dresser.resources
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.Properties.Resources.resources
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.csproj.GenerateResource.Cache
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.csproj.CoreCompileInputs.cache
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.exe
+c:\users\ayush\source\repos\DocuSignCodingChallenge\DocuSignCodingChallenge\obj\Debug\DocuSignCodingChallenge.pdb
